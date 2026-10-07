@@ -75,12 +75,12 @@ AIに聞けば大抵のことは分かりますが、「あのコミュニティ
 <tr>
 <td align="center" style="padding: 12px;"><br/>一般LT発表</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2026/11/27（金） 22:00</td>
+<td align="center" style="padding: 12px;"><br/>2026/11/30（月） 22:00</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>コミュニティ参加</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2026/11/27（金） 22:00</td>
+<td align="center" style="padding: 12px;"><br/>2026/11/30（月） 22:00</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/会場提供</td>
@@ -90,17 +90,17 @@ AIに聞けば大抵のことは分かりますが、「あのコミュニティ
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Gold</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>一次締め切り<br/>2026/10/30（金） 22:00</td>
+<td align="center" style="padding: 12px;"><br/>-- （先着順）</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2026/11/20（金） 22:00</td>
+<td align="center" style="padding: 12px;"><br/>-- （先着順）</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2026/11/20（金） 22:00</td>
+<td align="center" style="padding: 12px;"><br/>-- （先着順）</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>夜の部 懇親会</td>
@@ -131,7 +131,7 @@ NGKはIT系コミュニティ合同のイベントですが、LTの内容は必�
 
 ### 申し込み期限
 
-**2026/11/27（金）22:00**
+**2026/11/30（月）22:00**
 
 申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
@@ -144,12 +144,10 @@ NGK2027Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2027s/sponsors_prospectus.html)をご覧ください。
 
 ### 申し込み期限
-* GOLDスポンサー: **一次締め切り 2026/10/30（金）22:00**
-* SILVERスポンサー: **2026/11/20（金）22:00**
 
-GOLDスポンサーにはスポンサーLTの枠が付くため、一般LTとのバランスを見ながら募集数を調整します。
+GOLDスポンサーはスポンサーLTの枠が付くため、一般LTとのバランスを見ながら募集数を調整します。
 
-申し込み多数の場合は、申込み期限前でもお断りする可能性があります。ご了承ください。
+申し込み多数の場合は、早期に募集終了・お断りする可能性があります。あらかじめご了承ください。
 
 ## コミュニティ参加
 NGK2027Sにはコミュニティ活動を宣伝できる場として「コミュニティ参加」（無料）があります。
@@ -162,7 +160,7 @@ NGK2027Sにはコミュニティ活動を宣伝できる場として「コミュ
 詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2027s/community_prospectus.html)をご覧ください。
 
 ### 申し込み期限
-**2026/11/27（金）22:00**
+**2026/11/30（月）22:00**
 
 ## パトロン
 NGK2027Sでは支援していただけるパトロンを募集しています。
@@ -173,10 +171,7 @@ NGK2027Sでは支援していただけるパトロンを募集しています。
 ### 申し込み方法
 詳細は[パトロン募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2027s/patron_prospectus.html)をご覧ください。
 
-### 申し込み期限
-**2026/11/20（金）22:00**
-
-申し込み多数の場合は、申し込み期限前でも募集終了する可能性があります。あらかじめご了承ください。
+申し込み多数の場合は、早期に募集終了・お断りする可能性があります。あらかじめご了承ください。
 
 ## ポスター・チラシの掲示/配布
 
