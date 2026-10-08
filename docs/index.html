@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NGK2027S｜名古屋合同懇親会 2027年1月16日（土）</title>
+<meta name="description" content="東海地方のIT系コミュニティが集まる合同新年会。第19回は2027年1月16日（土）、名古屋・栄の中日ビルで開催します。昼の部はLT大会、夜の部は懇親会。">
+<meta property="og:title" content="NGK2027S｜名古屋合同懇親会">
+<meta property="og:description" content="AIとは友達に。人とはもっと友達に。2027年1月16日（土）名古屋・栄">
+<meta property="og:image" content="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/ngk_logo.png">
+<meta property="og:type" content="website">
+<style>
+:root {
+  --yellow: #FAED00;
+  --ink: #1A1A1A;
+  --muted: #5B5B5B;
+  --line: #1A1A1A;
+  --paper: #FFFFFF;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", Meiryo, system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.8;
+  font-size: 16px;
+}
+img { max-width: 100%; height: auto; display: block; }
+a { color: var(--ink); }
+.wrap { width: min(960px, 100% - 2.5rem); margin-inline: auto; }
+
+/* ヒーロー */
+.hero { background: var(--yellow); padding: 3rem 0 2.5rem; text-align: center; }
+.hero img.logo { width: min(340px, 80%); margin: 0 auto 1.5rem; }
+.hero .round { font-weight: 700; letter-spacing: .2em; margin: 0 0 .5rem; }
+.hero h1 {
+  font-size: clamp(1.5rem, 5.5vw, 2.4rem);
+  margin: 0 0 1.2rem;
+  line-height: 1.5;
+}
+.hero .when { font-size: clamp(1.1rem, 4vw, 1.4rem); font-weight: 700; margin: 0; }
+.hero .where { margin: .3rem 0 0; }
+
+/* 共通セクション */
+section { padding: 3.5rem 0; }
+section:nth-of-type(even) { background: #FFFDEB; }
+h2 {
+  font-size: 1.5rem;
+  margin: 0 0 1.5rem;
+  padding-bottom: .5rem;
+  border-bottom: 4px solid var(--yellow);
+  display: inline-block;
+}
+h3 { font-size: 1.1rem; margin: 2rem 0 .5rem; }
+
+/* 申し込みカード */
+.lead { font-size: 1.1rem; font-weight: 700; text-align: center; margin: 0 0 1.8rem; }
+.cards { display: grid; gap: 1.5rem; grid-template-columns: 1fr; }
+@media (min-width: 720px) { .cards { grid-template-columns: 1fr 1fr; } }
+.card {
+  border: 3px solid var(--line);
+  border-radius: 14px;
+  background: var(--paper);
+  padding: 1.5rem;
+  box-shadow: 7px 7px 0 var(--yellow);
+  display: flex;
+  flex-direction: column;
+}
+.card h3 { margin: 0 0 .2rem; font-size: 1.35rem; }
+.card .time { font-weight: 700; margin: 0 0 1rem; }
+.card ul { margin: 0 0 1.5rem; padding-left: 1.2rem; }
+.card ul li { margin-bottom: .2rem; }
+.card .btn { margin-top: auto; }
+.btn {
+  display: block;
+  text-align: center;
+  background: var(--ink);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  padding: .9rem 1rem;
+  border-radius: 999px;
+}
+.btn:hover { background: #000; }
+.note { text-align: center; margin: 1.5rem 0 0; font-weight: 700; }
+
+/* 表 */
+table { border-collapse: collapse; width: 100%; }
+th, td { border-bottom: 1px solid #E2E2E2; padding: .8rem .4rem; text-align: left; vertical-align: top; }
+th { white-space: nowrap; width: 11rem; }
+@media (max-width: 560px) {
+  th, td { display: block; width: auto; border: none; padding: .2rem 0; }
+  th { font-size: .85rem; color: var(--muted); padding-top: .8rem; }
+  td { border-bottom: 1px solid #E2E2E2; padding-bottom: .8rem; }
+}
+
+/* ロゴのタイル */
+.tiles { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+.tiles figure { margin: 0; text-align: center; font-size: .85rem; }
+.tiles img { border: 1px solid #E2E2E2; border-radius: 8px; }
+.tiles figcaption { margin-top: .4rem; }
+
+/* 実績 */
+.stats { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); text-align: center; }
+.stats div { border: 3px solid var(--line); border-radius: 14px; padding: 1rem .5rem; }
+.stats .num { font-size: 1.8rem; font-weight: 700; display: block; line-height: 1.2; }
+.stats .label { font-size: .85rem; }
+
+.links { columns: 2 14rem; margin: 0; padding-left: 1.2rem; }
+.links li { margin-bottom: .3rem; break-inside: avoid; }
+
+footer { background: var(--ink); color: #fff; padding: 2.5rem 0; font-size: .9rem; }
+footer a { color: var(--yellow); }
+footer h2 { color: #fff; border-color: #555; font-size: 1.1rem; }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <img class="logo" src="img/other/ngk_logo.png" alt="NGK 名古屋合同懇親会">
+    <p class="round">第19回 NGK2027S</p>
+    <h1>AIとは友達に。<br>人とはもっと友達に。</h1>
+    <p class="when">2027年1月16日（土）12:00〜21:00</p>
+    <p class="where">中日ビル 11階（名古屋・栄）</p>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <p class="lead">昼の部と夜の部は、それぞれ申し込みが必要です。ぜひ両方どうぞ。</p>
+    <div class="cards">
+      <div class="card">
+        <h3>昼の部：LT大会</h3>
+        <p class="time">12:00〜18:00／参加費 無料</p>
+        <ul>
+          <li>5分のライトニングトークを30本以上</li>
+          <li>内容はIT以外も自由。ダム、ビール、マラソンの回もありました</li>
+          <li>途中参加・早退OK</li>
+          <li>YouTube Liveでの配信視聴枠もあります</li>
+        </ul>
+        <a class="btn" href="https://ngk.connpass.com/event/408358/">昼の部に申し込む</a>
+      </div>
+      <div class="card">
+        <h3>夜の部：懇親会</h3>
+        <p class="time">18:00〜21:00／社会人 4,000円・学生 1,000円</p>
+        <ul>
+          <li>昼の部と同じ会場でケータリング</li>
+          <li>ビュッフェ形式、アルコールを含む飲み放題</li>
+          <li>学生の参加費はスポンサー費から補助しています</li>
+          <li>途中参加・早退OK</li>
+        </ul>
+        <a class="btn" href="https://ngk.connpass.com/event/408359/">夜の部に申し込む</a>
+      </div>
+    </div>
+    <p class="note">昼の部だけ、夜の部だけの参加もできます。</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>NGKとは</h2>
+    <p>NGK（名古屋合同懇親会）は、名古屋近郊のIT系コミュニティが集まって毎年開催している大新年会です。十数年前、小さなコミュニティ同士が「せっかくだからみんなで忘年会をしよう」と集まったのが始まりでした。飲みながらLTもやってみようという流れが定着し、いまの「昼の部 LT大会＋夜の部 懇親会」になりました。</p>
+    <p>AIに聞けば大抵のことは分かりますが、「あのコミュニティ、楽しい？」にはまだ答えてくれません。それを知っているのはきっと、隣の席に座っている人です。</p>
+    <p>エンジニアはもちろん、学生の方、趣味で活動している方、別の業種でITが好きな方、どなたでも楽しめます。まだコミュニティに参加したことがない方も歓迎です。</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>開催概要</h2>
+    <table>
+      <tr><th>日時</th><td>2027年1月16日（土）12:00〜21:00<br>（時間は多少前後する可能性があります）</td></tr>
+      <tr><th>会場</th><td><a href="https://www.ctc-g.co.jp/">中日ビル 11階 伊藤忠テクノソリューションズ 名古屋オフィス セミナースペース</a><br><a href="https://maps.app.goo.gl/Gww8KMXanv1NbK8g8">Googleマップで見る</a><br>地下鉄東山線・名城線「栄」駅、名鉄瀬戸線「栄町」駅から地下街で直結</td></tr>
+      <tr><th>参加費</th><td>昼の部：無料<br>夜の部：社会人枠 4,000円（事前決済）／学生枠 1,000円（現地決済）</td></tr>
+      <tr><th>配信</th><td>昼の部をYouTube Liveで配信します。URLは決まり次第お知らせします</td></tr>
+      <tr><th>参加にあたって</th><td>会場のセキュリティ上、申し込み時に氏名（本名）と所属の記入が必要です。<br><a href="anti_harassment_policy.html">アンチハラスメントポリシー</a>をお読みのうえご参加ください</td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>スポンサー</h2>
+    <h3>会場提供スポンサー</h3>
+    <div class="tiles">
+      <figure>
+        <a href="https://www.ctc-g.co.jp/"><img src="img/sponsor/ctc.png" alt="伊藤忠テクノソリューションズ株式会社"></a>
+        <figcaption>伊藤忠テクノソリューションズ株式会社</figcaption>
+      </figure>
+    </div>
+    <h3>GOLDスポンサー</h3>
+    <div class="tiles">
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+    </div>
+    <h3>SILVERスポンサー</h3>
+    <div class="tiles">
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+    </div>
+    <h3>パトロン</h3>
+    <div class="tiles">
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>参加コミュニティ</h2>
+    <div class="tiles">
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+      <figure><img src="img/other/empty.png" alt="準備中"></figure>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>募集中</h2>
+    <table>
+      <tr><th>一般LT発表</th><td>2026/11/27（金）22:00まで<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc26h0vimSSZ03bjhZ6qKZIs9mCPxPgPXDAibM5pM83Rh2Sbw/viewform?usp=pp_url&amp;entry.871443715=%E4%B8%80%E8%88%ACLT&amp;entry.249605699=%E3%81%AA%E3%81%97&amp;entry.1391641721=%E3%81%AA%E3%81%97&amp;entry.1991551372=%E3%81%AA%E3%81%97">申し込みフォーム</a>／<a href="lt_regulation.html">LTレギュレーション</a></td></tr>
+      <tr><th>コミュニティ参加</th><td>2026/11/27（金）22:00まで<br><a href="community_prospectus.html">コミュニティ参加募集要項</a></td></tr>
+      <tr><th>企業スポンサー</th><td>GOLD：2026/10/30（金）22:00 一次締め切り<br>SILVER：2026/11/20（金）22:00<br><a href="sponsors_prospectus.html">企業スポンサー募集要項</a></td></tr>
+      <tr><th>パトロン</th><td>2026/11/20（金）22:00まで<br><a href="patron_prospectus.html">パトロン募集要項</a></td></tr>
+      <tr><th>ポスター・チラシの掲示／配布</th><td>随時受付<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjZPn9kfpd5b8X4hSgcO8n1cNbSlgM3uaY2Osn-aGS6-WSJg/viewform?usp=header">申し込みフォーム</a></td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>前回（NGK2026S）の実績</h2>
+    <div class="stats">
+      <div><span class="num">96</span><span class="label">昼の部 参加者</span></div>
+      <div><span class="num">72</span><span class="label">夜の部 参加者</span></div>
+      <div><span class="num">36</span><span class="label">LT発表</span></div>
+      <div><span class="num">21</span><span class="label">参加コミュニティ</span></div>
+      <div><span class="num">9</span><span class="label">企業スポンサー</span></div>
+    </div>
+    <p style="margin-top:1.5rem">
+      <a href="https://www.youtube.com/live/3VYHyrQYBjI">動画アーカイブ</a>｜
+      <a href="https://nagoya-godo-konshinkai.github.io/ngk2026s/report/NGK2026S_conference_results.pdf">開催結果報告書</a>｜
+      <a href="https://nagoya-godo-konshinkai.github.io/ngk2026s/report/NGK2026S_financial_results.pdf">収支報告書</a>｜
+      <a href="https://ngk.connpass.com/event/373265/">NGK2026S connpass</a>
+    </p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <h2>資料・リンク</h2>
+    <ul class="links">
+      <li><a href="anti_harassment_policy.html">アンチハラスメントポリシー</a></li>
+      <li><a href="lt_regulation.html">LTレギュレーション</a></li>
+      <li><a href="sponsors_prospectus.html">企業スポンサー募集要項</a></li>
+      <li><a href="patron_prospectus.html">パトロン募集要項</a></li>
+      <li><a href="community_prospectus.html">コミュニティ参加募集要項</a></li>
+      <li><a href="https://ngk.connpass.com/event/408358/">昼の部 connpass</a></li>
+      <li><a href="https://ngk.connpass.com/event/408359/">夜の部 connpass</a></li>
+      <li><a href="https://www.youtube.com/@NagoyaGodoKonshinkai">YouTubeチャンネル</a></li>
+      <li><a href="https://ngk.connpass.com/">過去の開催</a></li>
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform">運営参加応募フォーム</a></li>
+    </ul>
+    <p>お問い合わせは、connpassページの「イベント管理者への問い合わせ」からお願いします。</p>
+    <p>NGKはボランティアの運営メンバー、そしてスポンサー・コミュニティ・参加者の皆さんの協力で開催しています。</p>
+  </div>
+</footer>
+
+</body>
+</html>
