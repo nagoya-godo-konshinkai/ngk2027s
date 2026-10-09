@@ -2,7 +2,7 @@
 
 ## 所在地
 
-- [中日ビル 11階 伊藤忠テクノソリューションズ 名古屋オフィス セミナースペース](https://www.ctc-g.co.jp/)
+- [中日ビル（名古屋 栄） 11階 伊藤忠テクノソリューションズ セミナースペース](https://www.ctc-g.co.jp/)
     - https://maps.app.goo.gl/hq1PWuo33Xz6JzzN6
 
 ## 会場での諸注意
