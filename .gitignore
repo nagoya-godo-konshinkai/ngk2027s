@@ -1,9 +1,22 @@
-# OS が作るファイル
+# for windows/mac
 .DS_Store
 Thumbs.db
 
-# エディタが作るファイル
+# エディタ
 .idea/
 .vscode/
 *.swp
 *~
+
+# clasp
+.clasp.json
+.clasprc.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 秘密情報
+.env
+.env.*
+secrets/
