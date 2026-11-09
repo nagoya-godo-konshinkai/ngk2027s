@@ -19,4 +19,8 @@ __pycache__/
 # 秘密情報
 .env
 .env.*
-secrets/
+
+# 鍵は git に入れない。置き場所のディレクトリだけ .gitkeep で持つ
+# ディレクトリが無いまま docker compose を動かすと root 所有で作られる
+**/secrets/*
+!**/secrets/.gitkeep
