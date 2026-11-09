@@ -1,0 +1,14 @@
+services:
+  discord-sync:
+    build: .
+    container_name: ngk-discord-sync
+    env_file: .env
+    volumes:
+      # 鍵ファイルは読み取りだけで足りる
+      - ./secrets:/app/secrets:ro
+    restart: always
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,9 +1,26 @@
-# OS が作るファイル
+# for windows/mac
 .DS_Store
 Thumbs.db
 
-# エディタが作るファイル
+# エディタ
 .idea/
 .vscode/
 *.swp
 *~
+
+# clasp
+.clasp.json
+.clasprc.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 秘密情報
+.env
+.env.*
+
+# 鍵は git に入れない。置き場所のディレクトリだけ .gitkeep で持つ
+# ディレクトリが無いまま docker compose を動かすと root 所有で作られる
+**/secrets/*
+!**/secrets/.gitkeep
