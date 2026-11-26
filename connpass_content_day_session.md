@@ -70,9 +70,9 @@ AIに聞けば大抵のことは分かりますが、「あのコミュニティ
 
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><br/>募集内容</td>
-<td align="center" style="padding: 12px;"><br/>状況</td>
-<td align="center" style="padding: 12px;"><br/>申し込み締め切り</td>
+<th align="center" style="padding: 12px;"><br/>募集内容</th>
+<th align="center" style="padding: 12px;"><br/>状況</th>
+<th align="center" style="padding: 12px;"><br/>申し込み締め切り</th>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>一般LT発表</td>
@@ -194,9 +194,9 @@ NGK2027Sのポスター（B3）とチラシ（A4）を、2026年10月中旬〜�
 
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><br/>発表者</td>
-<td align="center" style="padding: 12px;"><br/>コミュニティ/スポンサー</td>
-<td align="center" style="padding: 12px;"><br/>LTタイトル</td>
+<th align="center" style="padding: 12px;"><br/>発表者</th>
+<th align="center" style="padding: 12px;"><br/>コミュニティ/スポンサー</th>
+<th align="center" style="padding: 12px;"><br/>LTタイトル</th>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>上田昂明</td>
@@ -250,8 +250,8 @@ NGK2027Sのポスター（B3）とチラシ（A4）を、2026年10月中旬〜�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>果糖</td>
-<td align="center" style="padding: 12px;"><br/>鯱.py</td>
-<td align="center" style="padding: 12px;"><br/>鯱.pyはいいぞ　ver.2027</td>
+<td align="center" style="padding: 12px;"><br/>鯱<span>.</span>py</td>
+<td align="center" style="padding: 12px;"><br/>鯱<span>.</span>pyはいいぞ　ver.2027</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>dominion525/マツモトサトシ</td>
@@ -321,19 +321,17 @@ NGK2027Sのポスター（B3）とチラシ（A4）を、2026年10月中旬〜�
 ## パトロン
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/fresh_salmon256.png"/><br/><a href="https://connpass.com/user/fresh_salmon256/">fresh_salmon256</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/dominion525.png"/><br/><a href="https://connpass.com/user/Dominion525/">Dominion525</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/fresh_salmon256.png"/><br/><a href="https://connpass.com/user/fresh_salmon256/">fresh_salmon256</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/dominion525.png"/><br/><a href="https://connpass.com/user/Dominion525/">Dominion525</a></td>
 </tr>
 </table>
 
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/oreno.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/keyboard-meetup-nagoya.png"/><br/><a href="https://keyboard-meetup-nagoya.connpass.com/">Keyboard Meetup Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/toukai_meddx.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/oscnagoya.png"/><br/><a href="https://www.ospn.jp/">OSC名古屋地元企画有志</a></td>
@@ -351,6 +349,7 @@ NGK2027Sのポスター（B3）とチラシ（A4）を、2026年10月中旬〜�
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/jawsug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS-UG 名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/coderdojo.png"/><br/><a href="https://coderdojo.jp">CoderDojo</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
@@ -358,9 +357,9 @@ NGK2027Sのポスター（B3）とチラシ（A4）を、2026年10月中旬〜�
 # ⏰️ タイムテーブル（多少前後する可能性があります）
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><br/>内容</td>
-<td align="center" style="padding: 12px;"><br/>開始</td>
-<td align="center" style="padding: 12px;"><br/>終了</td>
+<th align="center" style="padding: 12px;"><br/>内容</th>
+<th align="center" style="padding: 12px;"><br/>開始</th>
+<th align="center" style="padding: 12px;"><br/>終了</th>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>昼の部受付</td>

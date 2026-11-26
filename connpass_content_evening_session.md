@@ -79,9 +79,9 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><br/>内容</td>
-<td align="center" style="padding: 12px;"><br/>開始</td>
-<td align="center" style="padding: 12px;"><br/>終了</td>
+<th align="center" style="padding: 12px;"><br/>内容</th>
+<th align="center" style="padding: 12px;"><br/>開始</th>
+<th align="center" style="padding: 12px;"><br/>終了</th>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>設営（参加任意）</td>
@@ -134,19 +134,17 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 ## パトロン
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/fresh_salmon256.png"/><br/><a href="https://connpass.com/user/fresh_salmon256/">fresh_salmon256</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/dominion525.png"/><br/><a href="https://connpass.com/user/Dominion525/">Dominion525</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/fresh_salmon256.png"/><br/><a href="https://connpass.com/user/fresh_salmon256/">fresh_salmon256</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/patron/dominion525.png"/><br/><a href="https://connpass.com/user/Dominion525/">Dominion525</a></td>
 </tr>
 </table>
 
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/oreno.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/keyboard-meetup-nagoya.png"/><br/><a href="https://keyboard-meetup-nagoya.connpass.com/">Keyboard Meetup Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/toukai_meddx.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/oscnagoya.png"/><br/><a href="https://www.ospn.jp/">OSC名古屋地元企画有志</a></td>
@@ -163,6 +161,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 -->
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/jawsug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS-UG 名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/community/coderdojo.png"/><br/><a href="https://coderdojo.jp">CoderDojo</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2027s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
